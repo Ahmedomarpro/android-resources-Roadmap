@@ -1,8 +1,4 @@
-# android-resources-Roadmap
-
-# Android Developer resources
-
-## Android developers
+## android-resources-Roadmap Android Developer resources
 
 - Official website https://developer.android.com/
 - Codelabs https://codelabs.developers.google.com/
@@ -54,13 +50,16 @@ Youtube Android Developers channel
     
 ## Events
 
-Android Dev Summit 2019 
+Android Dev Summit   
 
 - https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_xXXubDti2eRnIKU0p7wHd
 
-Kotlin Conf 2019
+- https://www.youtube.com/user/androiddevelopers/videos
+
+Kotlin Conf  
 
 - https://kotlinconf.com/2019/talks/
+
     
 ## Codelabs
 
@@ -112,5 +111,8 @@ Volley
 - https://developer.android.com/training/volley
 
 ## More resources
-https://github.com/mobile-roadmap/android-developer-roadmap
+
+- https://github.com/mobile-roadmap/android-developer-roadmap
+
+- https://www.androidelements.com/
 
