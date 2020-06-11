@@ -111,3 +111,6 @@ Retrofit
 Volley 
 - https://developer.android.com/training/volley
 
+## More resources
+https://github.com/mobile-roadmap/android-developer-roadmap
+
