@@ -116,3 +116,9 @@ Volley
 
 - https://www.androidelements.com/
 
+- https://github.com/MindorksOpenSource/android-developer-roadmap?fbclid=IwAR0SWtuSWiLNzidukI7PWrE2PpvR1FVxANJ0GLO4AhgGWb-jrKVYy_jU8fA
+
+- https://trello.com/b/fsc44tYh/android-developer-roadmap 
+
+- https://trello.com/b/hLGyiEEE/swift-developer-roadmap
+
